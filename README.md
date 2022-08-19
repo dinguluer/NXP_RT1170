@@ -19,7 +19,12 @@ This sample Repository is about Using LVGL and GUIGuider on  RT1170 MCU.
 
 
 # DEMO:  Using LVGL and RT1170 on TFT 800*480
-- [Youtube Video Tutorial : NXP : RT1170 : LVGL : Digital cluster - 1 : TFT Parallel RGB 800*480](https://www.youtube.com/watch?v=Mg707zV9vOY)
+- [Youtube Video  : NXP : RT1170 : LVGL : Digital cluster Digital Fonts - 3 : TFT Parallel RGB 800*480](https://www.youtube.com/watch?v=r9GEG_DiVCo)
+
+- [Youtube Video  : NXP : RT1170 : LVGL : Digital cluster - 1 : TFT Parallel RGB 800*480](https://www.youtube.com/watch?v=Mg707zV9vOY)
+
+- [Youtube Video  : NXP : RT1170 : LVGL : Digital cluster - 2 : TFT Parallel RGB 800*480](https://www.youtube.com/shorts/gF7o0Z975iE)
+
 
 # NXP RT1170 : Releases
 * First release – release 1.0.0  : Date - 19-08-2022
