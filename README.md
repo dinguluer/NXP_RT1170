@@ -16,7 +16,7 @@ This sample Repository is about Using LVGL and GUIGuider on  RT1170 MCU.
 * GUI Guider - 1.3.1
 
 
-# Tutorial:  How to port freeRTOS to Renesas RH850
+# DEMO:  Using LVGL and RT1170 on TFT 800*480
 - [Youtube Video Tutorial : NXP : RT1170 : LVGL : Digital cluster - 1 : TFT Parallel RGB 800*480](https://www.youtube.com/watch?v=Mg707zV9vOY)
 
 # Renesas RT1170 : Releases
