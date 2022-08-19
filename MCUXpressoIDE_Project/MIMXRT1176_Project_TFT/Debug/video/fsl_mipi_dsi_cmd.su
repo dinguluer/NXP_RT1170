@@ -1,0 +1,13 @@
+../video/fsl_mipi_dsi_cmd.c:22:10:MIPI_DSI_DCS_SoftReset	40	static
+../video/fsl_mipi_dsi_cmd.c:35:10:MIPI_DSI_DCS_SetDisplayOn	40	static
+../video/fsl_mipi_dsi_cmd.c:57:10:MIPI_DSI_DCS_SetPixelFormat	40	static
+../video/fsl_mipi_dsi_cmd.c:75:10:MIPI_DSI_DCS_EnterSleepMode	40	static
+../video/fsl_mipi_dsi_cmd.c:97:10:MIPI_DSI_DCS_EnterPartialMode	40	static
+../video/fsl_mipi_dsi_cmd.c:119:10:MIPI_DSI_DCS_EnterInvertMode	40	static
+../video/fsl_mipi_dsi_cmd.c:141:10:MIPI_DSI_DCS_EnterIdleMode	40	static
+../video/fsl_mipi_dsi_cmd.c:163:10:MIPI_DSI_DCS_Write	48	static
+../video/fsl_mipi_dsi_cmd.c:192:10:MIPI_DSI_GenericWrite	48	static
+../video/fsl_mipi_dsi_cmd.c:220:10:MIPI_DSI_SelectArea	56	static
+../video/fsl_mipi_dsi_cmd.c:254:10:MIPI_DSI_WriteMemory	24	static
+../video/fsl_mipi_dsi_cmd.c:259:6:MIPI_DSI_SetMemoryDoneCallback	24	static
+../video/fsl_mipi_dsi_cmd.c:265:6:MIPI_DSI_MemoryDoneDriverCallback	24	static

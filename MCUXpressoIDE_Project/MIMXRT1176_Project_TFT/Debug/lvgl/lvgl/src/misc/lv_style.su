@@ -1,0 +1,13 @@
+../lvgl/lvgl/src/misc/lv_color.h:602:26:lv_color_make	16	static
+../lvgl/lvgl/src/misc/lv_color.h:674:26:lv_color_white	8	static
+../lvgl/lvgl/src/misc/lv_style.h:353:24:lv_style_get_prop_inlined	48	static
+../lvgl/lvgl/src/misc/lv_style.c:40:6:lv_style_init	16	static
+../lvgl/lvgl/src/misc/lv_style.c:54:6:lv_style_reset	16	static
+../lvgl/lvgl/src/misc/lv_style.c:71:17:lv_style_register_prop	4	static
+../lvgl/lvgl/src/misc/lv_style.c:78:6:lv_style_remove_prop	56	static
+../lvgl/lvgl/src/misc/lv_style.c:137:6:lv_style_set_prop	80	static
+../lvgl/lvgl/src/misc/lv_style.c:208:10:lv_style_get_prop	24	static
+../lvgl/lvgl/src/misc/lv_style.c:213:6:lv_style_transition_dsc_init	24	static
+../lvgl/lvgl/src/misc/lv_style.c:227:18:lv_style_prop_get_default	24	static
+../lvgl/lvgl/src/misc/lv_style.c:270:6:lv_style_is_empty	16	static
+../lvgl/lvgl/src/misc/lv_style.c:277:9:_lv_style_get_prop_group	24	static

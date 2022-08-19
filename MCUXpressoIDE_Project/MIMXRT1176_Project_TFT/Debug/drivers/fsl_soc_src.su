@@ -1,0 +1,7 @@
+../drivers/fsl_soc_src.c:44:6:SRC_ReleaseCoreReset	32	static
+../drivers/fsl_soc_src.c:67:6:SRC_SetGlobalSystemResetMode	24	static
+../drivers/fsl_soc_src.c:86:6:SRC_AssertSliceSoftwareReset	24	static
+../drivers/fsl_soc_src.c:108:6:SRC_LockSliceMode	24	static
+../drivers/fsl_soc_src.c:126:6:SRC_SetSliceSetPointConfig	32	static
+../drivers/fsl_soc_src.c:146:6:SRC_SetSliceDomainModeConfig	32	static
+../drivers/fsl_soc_src.c:166:25:SRC_GetSliceResetState	24	static

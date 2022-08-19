@@ -1,0 +1,4 @@
+../drivers/fsl_anatop_ai.c:14:10:ANATOP_AI_Access	32	static
+../drivers/fsl_anatop_ai.c:338:6:ANATOP_AI_Write	16	static
+../drivers/fsl_anatop_ai.c:343:10:ANATOP_AI_Read	24	static
+../drivers/fsl_anatop_ai.c:350:6:ANATOP_AI_WriteWithMaskShift	32	static

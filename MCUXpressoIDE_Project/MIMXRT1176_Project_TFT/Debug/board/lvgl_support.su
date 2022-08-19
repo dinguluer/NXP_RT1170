@@ -1,0 +1,7 @@
+../board/lvgl_support.c:195:6:set_frame_bufferAddr	16	static
+../board/lvgl_support.c:204:6:lv_port_pre_init	4	static
+../board/lvgl_support.c:208:6:lv_port_disp_init	40	static
+../board/lvgl_support.c:321:13:DEMO_BufferSwitchOffCallback	24	static
+../board/lvgl_support.c:340:13:DEMO_CleanInvalidateCache	32	static
+../board/lvgl_support.c:350:13:DEMO_WaitFlush	16	static
+../board/lvgl_support.c:365:13:DEMO_FlushDisplay	24	static

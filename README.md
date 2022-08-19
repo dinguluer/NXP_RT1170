@@ -12,8 +12,10 @@ This sample Repository is about Using LVGL and GUIGuider on  RT1170 MCU.
 # RT1170 Port is provided for
 * MCU : RT1170
 * Compiler used : GCC
-* LCGL = version-8
-* GUI Guider - 1.3.1
+* LCGL : version-8
+* GUI Guider : 1.3.1
+* MCUXpresso IDE : v11.5.0
+* SDK Version Used : V2.11.0
 
 
 # DEMO:  Using LVGL and RT1170 on TFT 800*480

@@ -1,0 +1,10 @@
+../lvgl/lvgl/src/widgets/../core/../misc/../font/../misc/lv_area.h:120:20:lv_area_copy	16	static
+../lvgl/lvgl/src/widgets/../core/lv_obj_style_gen.h:91:26:lv_obj_get_style_pad_top	24	static
+../lvgl/lvgl/src/widgets/../core/lv_obj_style_gen.h:97:26:lv_obj_get_style_pad_bottom	24	static
+../lvgl/lvgl/src/widgets/../core/lv_obj_style_gen.h:103:26:lv_obj_get_style_pad_left	24	static
+../lvgl/lvgl/src/widgets/../core/lv_obj_style_gen.h:109:26:lv_obj_get_style_pad_right	24	static
+../lvgl/lvgl/src/widgets/../core/lv_obj_style_gen.h:187:29:lv_obj_get_style_base_dir	24	static
+../lvgl/lvgl/src/widgets/lv_switch.c:61:12:lv_switch_create	24	static
+../lvgl/lvgl/src/widgets/lv_switch.c:73:13:lv_switch_constructor	16	static
+../lvgl/lvgl/src/widgets/lv_switch.c:86:13:lv_switch_event	48	static
+../lvgl/lvgl/src/widgets/lv_switch.c:122:13:draw_main	168	static

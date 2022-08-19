@@ -1,0 +1,13 @@
+../source/Screen_Task.c:54:6:Screen_teltail_Animate	8	static
+../source/Screen_Task.c:135:6:RTC_Init	4	static
+../source/Screen_Task.c:148:6:RTC_Animate	4	static
+../source/Screen_Task.c:181:6:convert_Month_to_Text	4	static
+../source/Screen_Task.c:263:6:convert_day_to_Text	4	static
+../source/Screen_Task.c:272:6:convert_year_to_Text	4	static
+../source/Screen_Task.c:283:6:convert_Time_to_Text	4	static
+../source/Screen_Task.c:309:6:Screen_date_Time_update	8	static
+../source/Screen_Task.c:324:6:convert_speed_to_Text	4	static
+../source/Screen_Task.c:347:6:Screen_speed_update	8	static
+../source/Screen_Task.c:388:6:ODO_Animate	4	static
+../source/Screen_Task.c:447:6:Screen_ODO_update	8	static
+../source/Screen_Task.c:488:6:Screen_ODO_hide	8	static

@@ -1,0 +1,8 @@
+../lvgl/lvgl/src/draw/../misc/lv_area.h:133:26:lv_area_get_width	16	static
+../lvgl/lvgl/src/draw/../misc/lv_color.h:602:26:lv_color_make	16	static
+../lvgl/lvgl/src/draw/../misc/lv_color.h:675:26:lv_color_black	8	static
+../lvgl/lvgl/src/draw/lv_draw_line.c:50:28:lv_draw_line_dsc_init	24	static
+../lvgl/lvgl/src/draw/lv_draw_line.c:65:28:lv_draw_line	104	static
+../lvgl/lvgl/src/draw/lv_draw_line.c:120:35:draw_line_hor	120	static
+../lvgl/lvgl/src/draw/lv_draw_line.c:220:35:draw_line_ver	112	static
+../lvgl/lvgl/src/draw/lv_draw_line.c:315:35:draw_line_skew	336	static

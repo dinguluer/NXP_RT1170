@@ -1,0 +1,11 @@
+../drivers/fsl_clock.h:2178:20:CLOCK_ControlGate	16	static
+../drivers/fsl_clock.h:2197:20:CLOCK_EnableClock	16	static
+../drivers/fsl_clock.h:2207:20:CLOCK_DisableClock	16	static
+../drivers/fsl_elcdif.c:75:17:ELCDIF_GetInstance	24	static
+../drivers/fsl_elcdif.c:102:6:ELCDIF_RgbModeInit	24	static
+../drivers/fsl_elcdif.c:178:6:ELCDIF_RgbModeGetDefaultConfig	16	static
+../drivers/fsl_elcdif.c:206:6:ELCDIF_RgbModeSetPixelFormat	16	static
+../drivers/fsl_elcdif.c:222:6:ELCDIF_Deinit	24	static
+../drivers/fsl_elcdif.c:241:6:ELCDIF_RgbModeStop	16	static
+../drivers/fsl_elcdif.c:256:6:ELCDIF_Reset	16	static
+../drivers/fsl_elcdif.c:350:10:ELCDIF_UpdateLut	40	static

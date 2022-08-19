@@ -1,0 +1,2 @@
+../lvgl/lvgl/src/widgets/lv_btn.c:49:12:lv_btn_create	24	static
+../lvgl/lvgl/src/widgets/lv_btn.c:61:13:lv_btn_constructor	16	static

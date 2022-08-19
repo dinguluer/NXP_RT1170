@@ -1,0 +1,12 @@
+../lvgl/lvgl/src/misc/lv_printf.c:126:20:_out_buffer	24	static
+../lvgl/lvgl/src/misc/lv_printf.c:134:20:_out_null	24	static
+../lvgl/lvgl/src/misc/lv_printf.c:144:28:_strnlen_s	24	static
+../lvgl/lvgl/src/misc/lv_printf.c:153:20:_is_digit	16	static
+../lvgl/lvgl/src/misc/lv_printf.c:159:21:_atoi	24	static
+../lvgl/lvgl/src/misc/lv_printf.c:169:15:_out_rev	40	static
+../lvgl/lvgl/src/misc/lv_printf.c:198:15:_ntoa_format	40	static
+../lvgl/lvgl/src/misc/lv_printf.c:252:15:_ntoa_long	96	static
+../lvgl/lvgl/src/misc/lv_printf.c:277:15:_ntoa_long_long	96	static
+../lvgl/lvgl/src/misc/lv_printf.c:551:12:_vsnprintf	160	static
+../lvgl/lvgl/src/misc/lv_printf.c:855:5:lv_snprintf	32	static
+../lvgl/lvgl/src/misc/lv_printf.c:864:5:lv_vsnprintf	32	static

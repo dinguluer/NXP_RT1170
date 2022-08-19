@@ -1,0 +1,10 @@
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\CMSIS/core_cm7.h:1902:22:__NVIC_EnableIRQ	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\CMSIS/core_cm7.h:1940:22:__NVIC_DisableIRQ	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_pxp.h:586:20:PXP_Start	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_pxp.h:685:24:PXP_GetStatusFlags	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_pxp.h:705:20:PXP_ClearStatusFlags	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_pxp.h:756:20:PXP_EnableInterrupts	16	static
+../lvgl/lvgl/src/gpu/lv_gpu_nxp_pxp_osa.c:83:6:PXP_IRQHandler	8	static
+../lvgl/lvgl/src/gpu/lv_gpu_nxp_pxp_osa.c:108:17:_lv_gpu_nxp_pxp_interrupt_init	8	static
+../lvgl/lvgl/src/gpu/lv_gpu_nxp_pxp_osa.c:129:13:_lv_gpu_nxp_pxp_interrupt_deinit	8	static
+../lvgl/lvgl/src/gpu/lv_gpu_nxp_pxp_osa.c:140:13:_lv_gpu_nxp_pxp_run	8	static

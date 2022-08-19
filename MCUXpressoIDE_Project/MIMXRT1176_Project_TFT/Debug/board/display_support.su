@@ -1,0 +1,16 @@
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\CMSIS/core_cm7.h:1902:22:__NVIC_EnableIRQ	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\CMSIS/core_cm7.h:1993:22:__NVIC_ClearPendingIRQ	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\CMSIS/core_cm7.h:2032:22:__NVIC_SetPriority	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_clock.h:2071:24:CLOCK_GetRootClockMux	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_clock.h:2112:24:CLOCK_GetRootClockDiv	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_clock.h:2157:20:CLOCK_SetRootClock	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_clock.h:2178:20:CLOCK_ControlGate	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_clock.h:2197:20:CLOCK_EnableClock	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_clock.h:2240:24:CLOCK_GetRootClockFreq	32	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_common_arm.h:499:24:EnableIRQ	24	static
+../board/display_support.c:148:13:BOARD_InitLcdifClock	16	static
+../board/display_support.c:171:6:LCDIFv2_IRQHandler	8	static
+../board/display_support.c:182:10:BOARD_VerifyDisplayClockSource	16	static
+../board/display_support.c:207:6:BOARD_InitLcdPanel_tft	8	static
+../board/display_support.c:217:10:BOARD_InitDisplayInterface_TFT	8	static
+../board/display_support.c:235:10:BOARD_PrepareDisplayController	16	static

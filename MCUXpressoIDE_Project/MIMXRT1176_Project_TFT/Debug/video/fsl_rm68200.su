@@ -1,0 +1,4 @@
+../video/fsl_rm68200.c:292:10:RM68200_Init	40	static
+../video/fsl_rm68200.c:379:10:RM68200_Deinit	24	static
+../video/fsl_rm68200.c:392:10:RM68200_Start	24	static
+../video/fsl_rm68200.c:400:10:RM68200_Stop	24	static

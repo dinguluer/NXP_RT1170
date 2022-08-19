@@ -1,0 +1,7 @@
+../source/draw_Task.c:36:6:draw_RTC_Init	4	static
+../source/draw_Task.c:49:6:draw_RTC_Animate	4	static
+../source/draw_Task.c:82:6:draw_convert_Month_to_Text	4	static
+../source/draw_Task.c:164:6:draw_convert_day_to_Text	4	static
+../source/draw_Task.c:173:6:draw_convert_year_to_Text	4	static
+../source/draw_Task.c:184:6:draw_convert_Time_to_Text	4	static
+../source/draw_Task.c:195:6:draw_date_Time_update	8	static

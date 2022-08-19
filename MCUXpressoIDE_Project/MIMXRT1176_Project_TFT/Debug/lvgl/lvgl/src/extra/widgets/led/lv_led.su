@@ -1,0 +1,14 @@
+../lvgl/lvgl/src/extra/widgets/led/../../../../src/hal/../misc/lv_color.h:395:24:lv_color_to32	24	static
+../lvgl/lvgl/src/extra/widgets/led/../../../../src/hal/../misc/lv_color.h:459:48:lv_color_mix	24	static
+../lvgl/lvgl/src/extra/widgets/led/../../../../src/hal/../misc/lv_color.h:594:23:lv_color_brightness	24	static
+../lvgl/lvgl/src/extra/widgets/led/../../../../src/hal/../misc/lv_color.h:602:26:lv_color_make	16	static
+../lvgl/lvgl/src/extra/widgets/led/../../../../src/hal/../misc/lv_color.h:675:26:lv_color_black	8	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:60:12:lv_led_create	24	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:77:6:lv_led_set_color	24	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:89:6:lv_led_set_brightness	24	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:107:6:lv_led_on	16	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:116:6:lv_led_off	16	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:125:6:lv_led_toggle	24	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:143:9:lv_led_get_brightness	24	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:153:13:lv_led_constructor	32	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:161:13:lv_led_event	96	static

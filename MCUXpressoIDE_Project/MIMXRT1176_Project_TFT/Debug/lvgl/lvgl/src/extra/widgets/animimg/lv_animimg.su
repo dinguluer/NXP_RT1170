@@ -1,0 +1,13 @@
+../lvgl/lvgl/src/extra/widgets/animimg/../../../../src/core/../misc/lv_anim.h:119:20:lv_anim_set_var	16	static
+../lvgl/lvgl/src/extra/widgets/animimg/../../../../src/core/../misc/lv_anim.h:131:20:lv_anim_set_exec_cb	16	static
+../lvgl/lvgl/src/extra/widgets/animimg/../../../../src/core/../misc/lv_anim.h:141:20:lv_anim_set_time	16	static
+../lvgl/lvgl/src/extra/widgets/animimg/../../../../src/core/../misc/lv_anim.h:162:20:lv_anim_set_values	24	static
+../lvgl/lvgl/src/extra/widgets/animimg/../../../../src/core/../misc/lv_anim.h:239:20:lv_anim_set_playback_delay	16	static
+../lvgl/lvgl/src/extra/widgets/animimg/../../../../src/core/../misc/lv_anim.h:249:20:lv_anim_set_repeat_count	16	static
+../lvgl/lvgl/src/extra/widgets/animimg/lv_animimg.c:57:12:lv_animimg_create	24	static
+../lvgl/lvgl/src/extra/widgets/animimg/lv_animimg.c:65:6:lv_animimg_set_src	32	static
+../lvgl/lvgl/src/extra/widgets/animimg/lv_animimg.c:73:6:lv_animimg_start	24	static
+../lvgl/lvgl/src/extra/widgets/animimg/lv_animimg.c:83:6:lv_animimg_set_duration	24	static
+../lvgl/lvgl/src/extra/widgets/animimg/lv_animimg.c:90:6:lv_animimg_set_repeat_count	24	static
+../lvgl/lvgl/src/extra/widgets/animimg/lv_animimg.c:104:13:lv_animimg_constructor	24	static
+../lvgl/lvgl/src/extra/widgets/animimg/lv_animimg.c:122:13:index_change	24	static

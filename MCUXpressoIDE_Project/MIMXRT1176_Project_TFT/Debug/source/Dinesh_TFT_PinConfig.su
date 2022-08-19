@@ -1,0 +1,5 @@
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_iomuxc.h:1633:20:IOMUXC_SetPinMux	24	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_iomuxc.h:1665:20:IOMUXC_SetPinConfig	24	static
+../source/Dinesh_TFT_PinConfig.c:37:6:BOARD_InitTFTPanelPins	16	static
+../source/Dinesh_TFT_PinConfig.c:187:6:BOARD_InitTFTPanel_Support_Pins	32	static
+../source/Dinesh_TFT_PinConfig.c:291:6:DEMO_InitLcdBackLight	24	static

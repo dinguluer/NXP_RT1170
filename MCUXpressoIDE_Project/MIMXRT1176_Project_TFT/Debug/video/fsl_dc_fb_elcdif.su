@@ -1,0 +1,16 @@
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_elcdif.h:373:20:ELCDIF_RgbModeStart	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_elcdif.h:391:20:ELCDIF_SetNextBufferAddr	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_elcdif.h:540:20:ELCDIF_EnableInterrupts	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_elcdif.h:554:20:ELCDIF_DisableInterrupts	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\drivers/fsl_elcdif.h:586:20:ELCDIF_ClearInterruptStatus	16	static
+../video/fsl_dc_fb_elcdif.c:53:17:DC_FB_ELCDIF_GetPixelFormat	24	static
+../video/fsl_dc_fb_elcdif.c:69:10:DC_FB_ELCDIF_Init	48	static
+../video/fsl_dc_fb_elcdif.c:103:10:DC_FB_ELCDIF_Deinit	24	static
+../video/fsl_dc_fb_elcdif.c:118:10:DC_FB_ELCDIF_EnableLayer	24	static
+../video/fsl_dc_fb_elcdif.c:144:10:DC_FB_ELCDIF_DisableLayer	24	static
+../video/fsl_dc_fb_elcdif.c:160:10:DC_FB_ELCDIF_SetLayerConfig	48	static
+../video/fsl_dc_fb_elcdif.c:186:10:DC_FB_ELCDIF_GetLayerDefaultConfig	32	static
+../video/fsl_dc_fb_elcdif.c:202:10:DC_FB_ELCDIF_SetFrameBuffer	32	static
+../video/fsl_dc_fb_elcdif.c:229:6:DC_FB_ELCDIF_SetCallback	32	static
+../video/fsl_dc_fb_elcdif.c:238:10:DC_FB_ELCDIF_GetProperty	16	static
+../video/fsl_dc_fb_elcdif.c:243:6:DC_FB_ELCDIF_IRQHandler	32	static

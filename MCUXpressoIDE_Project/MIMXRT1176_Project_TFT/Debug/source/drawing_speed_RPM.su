@@ -1,0 +1,4 @@
+../source/drawing_speed_RPM.c:46:6:convert_number_to_Text	16	static
+../source/drawing_speed_RPM.c:68:6:drawing_speed_update	8	static
+../source/drawing_speed_RPM.c:100:6:drawing_rpm_update	8	static
+../source/drawing_speed_RPM.c:134:6:drawing_speed_rpm_update	8	static

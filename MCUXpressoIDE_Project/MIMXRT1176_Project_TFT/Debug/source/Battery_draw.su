@@ -1,0 +1,2 @@
+../source/Battery_draw.c:97:6:battery_draw	16	static
+../source/Battery_draw.c:635:6:battery_create_lines	16	static

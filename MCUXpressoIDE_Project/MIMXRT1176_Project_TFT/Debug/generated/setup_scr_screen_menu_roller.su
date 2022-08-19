@@ -1,0 +1,10 @@
+c:\users\nxf77952\documents\mcuxpressoide_11.5.0_7232\workspace\mimxrt1176_project_tft\lvgl\lvgl\src\misc\lv_color.h:602:26:lv_color_make	16	static
+c:\users\nxf77952\documents\mcuxpressoide_11.5.0_7232\workspace\mimxrt1176_project_tft\lvgl\lvgl\src\misc\lv_color.h:674:26:lv_color_white	8	static
+c:\users\nxf77952\documents\mcuxpressoide_11.5.0_7232\workspace\mimxrt1176_project_tft\lvgl\lvgl\src\misc\lv_color.h:675:26:lv_color_black	8	static
+c:\users\nxf77952\documents\mcuxpressoide_11.5.0_7232\workspace\mimxrt1176_project_tft\lvgl\lvgl\src\font\lv_font.h:118:26:lv_font_get_line_height	16	static
+c:\users\nxf77952\documents\mcuxpressoide_11.5.0_7232\workspace\mimxrt1176_project_tft\lvgl\lvgl\src\misc\lv_style.h:425:20:lv_style_set_pad_all	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\lvgl/lvgl/src/core/lv_obj_pos.h:186:20:lv_obj_center	16	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\lvgl/lvgl/src/core/lv_obj_style_gen.h:331:33:lv_obj_get_style_text_font	24	static
+C:\Users\nxf77952\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1176_Project_TFT\lvgl/lvgl/src/core/lv_obj_style_gen.h:343:26:lv_obj_get_style_text_line_space	24	static
+../generated/setup_scr_screen_menu_roller.c:13:13:mask_event_cb	80	static
+../generated/setup_scr_screen_menu_roller.c:60:6:setup_scr_screen_menu_roller	16	static
